@@ -1,2 +1,2 @@
 # ChangeData
-[![Build status](https://ci.appveyor.com/api/projects/status/0yg355gsocp4d9as/branch/main?svg=true)](https://ci.appveyor.com/project/Chikhareva/changedata/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/l0comg8yfr3xk32m/branch/master?svg=true)](https://ci.appveyor.com/project/Chikhareva/changedata/branch/master)
